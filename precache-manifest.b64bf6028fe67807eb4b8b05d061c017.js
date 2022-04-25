@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "818db8db4638ae57534115ba31fb7a40",
+    "revision": "5d9c7edaa9f54596b0cb2373f2a0e059",
     "url": "https://jonas-thierbach.de/index.html"
   },
   {
-    "revision": "cee648a3c3caa5aaa6e5",
+    "revision": "faeda06d1bad25c1f8a3",
     "url": "https://jonas-thierbach.de/static/css/main.861f93c8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://jonas-thierbach.de/static/js/2.b8af72ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cee648a3c3caa5aaa6e5",
-    "url": "https://jonas-thierbach.de/static/js/main.f1afcd45.chunk.js"
+    "revision": "faeda06d1bad25c1f8a3",
+    "url": "https://jonas-thierbach.de/static/js/main.9827d685.chunk.js"
   },
   {
     "revision": "fc3e8e38bec151c32537",

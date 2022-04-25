@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://jonas-thierbach.de/precache-manifest.50bc403532468ca1e18ed34cceae6a72.js"
+  "https://jonas-thierbach.de/precache-manifest.b64bf6028fe67807eb4b8b05d061c017.js"
 );
 
 self.addEventListener('message', (event) => {
