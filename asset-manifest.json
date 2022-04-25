@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://jonas-thierbach.de/static/css/main.861f93c8.chunk.css",
-    "main.js": "https://jonas-thierbach.de/static/js/main.9827d685.chunk.js",
-    "main.js.map": "https://jonas-thierbach.de/static/js/main.9827d685.chunk.js.map",
+    "main.js": "https://jonas-thierbach.de/static/js/main.a2a402a6.chunk.js",
+    "main.js.map": "https://jonas-thierbach.de/static/js/main.a2a402a6.chunk.js.map",
     "runtime-main.js": "https://jonas-thierbach.de/static/js/runtime-main.6e7046f5.js",
     "runtime-main.js.map": "https://jonas-thierbach.de/static/js/runtime-main.6e7046f5.js.map",
-    "static/js/2.b8af72ec.chunk.js": "https://jonas-thierbach.de/static/js/2.b8af72ec.chunk.js",
-    "static/js/2.b8af72ec.chunk.js.map": "https://jonas-thierbach.de/static/js/2.b8af72ec.chunk.js.map",
+    "static/js/2.91e2c181.chunk.js": "https://jonas-thierbach.de/static/js/2.91e2c181.chunk.js",
+    "static/js/2.91e2c181.chunk.js.map": "https://jonas-thierbach.de/static/js/2.91e2c181.chunk.js.map",
     "index.html": "https://jonas-thierbach.de/index.html",
-    "precache-manifest.b64bf6028fe67807eb4b8b05d061c017.js": "https://jonas-thierbach.de/precache-manifest.b64bf6028fe67807eb4b8b05d061c017.js",
+    "precache-manifest.1094b1026eeb187bc79d153ec0549f82.js": "https://jonas-thierbach.de/precache-manifest.1094b1026eeb187bc79d153ec0549f82.js",
     "service-worker.js": "https://jonas-thierbach.de/service-worker.js",
     "static/css/main.861f93c8.chunk.css.map": "https://jonas-thierbach.de/static/css/main.861f93c8.chunk.css.map",
-    "static/js/2.b8af72ec.chunk.js.LICENSE.txt": "https://jonas-thierbach.de/static/js/2.b8af72ec.chunk.js.LICENSE.txt",
+    "static/js/2.91e2c181.chunk.js.LICENSE.txt": "https://jonas-thierbach.de/static/js/2.91e2c181.chunk.js.LICENSE.txt",
     "static/media/Background.png": "https://jonas-thierbach.de/static/media/Background.3e22ed58.png",
     "static/media/Characters.mp4": "https://jonas-thierbach.de/static/media/Characters.44428167.mp4",
     "static/media/Contents.mp4": "https://jonas-thierbach.de/static/media/Contents.f4b87c7a.mp4",
@@ -45,8 +45,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6e7046f5.js",
-    "static/js/2.b8af72ec.chunk.js",
+    "static/js/2.91e2c181.chunk.js",
     "static/css/main.861f93c8.chunk.css",
-    "static/js/main.9827d685.chunk.js"
+    "static/js/main.a2a402a6.chunk.js"
   ]
 }
