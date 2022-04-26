@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6003f39848479bf1bc525a51f98de0c2",
+    "revision": "130258a7a992ba2de68785ac93ebcedc",
     "url": "/index.html"
   },
   {
-    "revision": "a01fb4b24d5fe0a36677",
+    "revision": "4b89b3fcecdfd73b562e",
     "url": "/static/css/main.861f93c8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.f088787f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a01fb4b24d5fe0a36677",
-    "url": "/static/js/main.ced9c675.chunk.js"
+    "revision": "4b89b3fcecdfd73b562e",
+    "url": "/static/js/main.8da29bf4.chunk.js"
   },
   {
     "revision": "4a42fdcbdfd3cf55fea3",
@@ -132,12 +132,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logo.6ad37e80.png"
   },
   {
-    "revision": "4b46f405bee246103e9d25f2160827ef",
-    "url": "/static/media/qrcode.4b46f405.png"
+    "revision": "59366ffe37bf4e96024153f396ed1909",
+    "url": "/static/media/qrcode.59366ffe.png"
   },
   {
-    "revision": "b3000b21d0fa0832837e8fe66cfc8575",
-    "url": "/static/media/quizqr.b3000b21.png"
+    "revision": "cb719dc3d17651caab09ade925b11762",
+    "url": "/static/media/quizqr.cb719dc3.png"
   },
   {
     "revision": "e04c47c8cef2b6c31dd8a8d05b2ef594",
