@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.856ee11a.chunk.css",
-    "main.js": "/static/js/main.ebcb239b.chunk.js",
-    "main.js.map": "/static/js/main.ebcb239b.chunk.js.map",
+    "main.js": "/static/js/main.69b940ca.chunk.js",
+    "main.js.map": "/static/js/main.69b940ca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1c47a842.js",
     "runtime-main.js.map": "/static/js/runtime-main.1c47a842.js.map",
-    "static/js/2.61431995.chunk.js": "/static/js/2.61431995.chunk.js",
-    "static/js/2.61431995.chunk.js.map": "/static/js/2.61431995.chunk.js.map",
+    "static/js/2.6f6d7731.chunk.js": "/static/js/2.6f6d7731.chunk.js",
+    "static/js/2.6f6d7731.chunk.js.map": "/static/js/2.6f6d7731.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c106a3a6d11b6cba9eda9234776cda7b.js": "/precache-manifest.c106a3a6d11b6cba9eda9234776cda7b.js",
+    "precache-manifest.ac05935279d897c7f467903a7291fb2e.js": "/precache-manifest.ac05935279d897c7f467903a7291fb2e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.856ee11a.chunk.css.map": "/static/css/main.856ee11a.chunk.css.map",
-    "static/js/2.61431995.chunk.js.LICENSE.txt": "/static/js/2.61431995.chunk.js.LICENSE.txt",
+    "static/js/2.6f6d7731.chunk.js.LICENSE.txt": "/static/js/2.6f6d7731.chunk.js.LICENSE.txt",
     "static/media/Background.png": "/static/media/Background.3e22ed58.png",
     "static/media/Characters.mp4": "/static/media/Characters.44428167.mp4",
     "static/media/Contents.mp4": "/static/media/Contents.f4b87c7a.mp4",
@@ -40,7 +40,9 @@
     "static/media/blurredParticles.mp4": "/static/media/blurredParticles.c083c525.mp4",
     "static/media/logo.png": "/static/media/logo.6ad37e80.png",
     "static/media/qrcode.png": "/static/media/qrcode.59366ffe.png",
+    "static/media/qrcodeSubDomain.png": "/static/media/qrcodeSubDomain.a454d867.png",
     "static/media/quizqr.png": "/static/media/quizqr.cb719dc3.png",
+    "static/media/quizqrSubDomain.png": "/static/media/quizqrSubDomain.8592422c.png",
     "static/media/slide1.png": "/static/media/slide1.a6cfd95c.png",
     "static/media/slide10.png": "/static/media/slide10.e6d70624.png",
     "static/media/slide11.png": "/static/media/slide11.cd5e7d3b.png",
@@ -59,8 +61,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1c47a842.js",
-    "static/js/2.61431995.chunk.js",
+    "static/js/2.6f6d7731.chunk.js",
     "static/css/main.856ee11a.chunk.css",
-    "static/js/main.ebcb239b.chunk.js"
+    "static/js/main.69b940ca.chunk.js"
   ]
 }
